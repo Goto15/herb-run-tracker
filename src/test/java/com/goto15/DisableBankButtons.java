@@ -1,9 +1,9 @@
-package com.example;
+package com.goto15;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class ExamplePluginTest
+public class DisableBankButtons
 {
 	public static void main(String[] args) throws Exception
 	{

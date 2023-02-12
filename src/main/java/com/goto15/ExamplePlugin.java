@@ -1,4 +1,4 @@
-package com.example;
+package com.goto15;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
